@@ -1,0 +1,18 @@
+
+#nav-bar li{
+display: inline;
+  background-color: cornflowerblue;
+  color: ghostwhite;
+  padding: 6px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+#nav-bar li > a {
+  text-decoration: none;
+  color: ghostwhite;
+}
+
+#nav-bar li > a.active1 {
+  color: black;
+}
